@@ -8,7 +8,7 @@ def agentLabel_master = "master"
 def agentLabel_slave01 = "master"
 def workPath_slave01 = "C:\\Work\\project\\git-pc\\gentoolgroup\\indiastudiodeploy\\tmp\\IndiaStudioDist_dev2_20201109-171316\\Slave02_local01\\"
 
-def agentLabel_slave02local01 = ""master"
+def agentLabel_slave02local01 = "master"
 def workPath_slave02local01 = "C:\\Work\\project\\git-pc\\gentoolgroup\\indiastudiodeploy\\tmp\\IndiaStudioDist_dev2_20201109-171316\\Slave02_local01\\"
 
 def agentLabel_slave02local02 = "master"
