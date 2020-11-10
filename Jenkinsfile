@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('') {
+    stage('GetUrl') {
       steps {
-        sh 'echo "aa"'
+        sh 'echo "test"'
       }
     }
 
