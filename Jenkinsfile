@@ -4,6 +4,7 @@ pipeline {
     stage('GetUrl') {
       steps {
         echo "aa"
+		
       }
     }
   }
